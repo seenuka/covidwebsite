@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar
+{
+    background: #63d471;
+    height: 80px;
+    display:flex;
+    justify-content:space-between;
+padding: 0;
+    
+
+}
+.logo
+{
+    font-size: 30px;
+    margin-left: 70ch;
+}
+.nav-links
+{
+    display: flex;
+    list-style: none;
+ justify-content: flex;   
+    width: 75px;
+
+}
+.home,.about,.signup,.vaccine,.stats
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+
+    
+}

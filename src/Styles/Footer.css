@@ -1,0 +1,37 @@
+.footer-basic {
+    padding:28pxx ;
+    background-color:grey;
+    
+  }
+
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.4;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+ .footer-basic a {
+    margin-left: 10px;
+    text-decoration:none;
+    color:rgb(243, 241, 241)
+  }
+  
+ .footer-basic a:hover {
+      color: #444;
+    text-decoration: underline;
+  }
+
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }

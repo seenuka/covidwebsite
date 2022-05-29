@@ -1,0 +1,55 @@
+body{
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form{
+    background-color: pink;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 15px;
+}
+
+.form__label{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.form_input{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    background: black;
+    color: aqua;
+    border: 1px solid black;
+padding: 10px 20px;
+}
+.log
+{
+    cursor: pointer;
+}

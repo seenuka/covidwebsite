@@ -1,0 +1,38 @@
+/* h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: black;
+    
+} */
+.card{
+    margin-top: 70x;
+    float: left;
+    width: 20%;
+}
+.card image{
+    align-items: center;
+}
+.row{
+    background-color:  rgba(150, 80, 80, 0.46);
+}
+.card3{
+    float: right;
+    width: 20%;
+    margin-top: 90px;
+}
+.card2{
+    float: auto;
+    margin-top: 90px;
+    width: 60%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button
+{
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    background: black;
+    color: aqua;
+    border: 1px solid black;
+padding: 10px 20px;
+}
